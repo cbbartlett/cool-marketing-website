@@ -12,4 +12,4 @@ The first challenge from the UTA Fullstack Bootcamp dealing with refactoring cod
 - [Logan Dolence](https://github.com/ltdolence)
 
 ## License
-This repository is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
+This repository is licensed under the MIT License.
